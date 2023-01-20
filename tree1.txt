@@ -1,0 +1,7 @@
+  50
+  30
+  70
+  20
+  40
+  90
+  https://bridges-cs.herokuapp.com/assignments/1/Nathan_hutton
